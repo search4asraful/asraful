@@ -13,12 +13,6 @@ html{
 body{
     background: #080808;
     color: #fff;
-
-    -webkit-user-select:none;
-    -moz-user-select:none;
-    -o-user-select:none;
-    -user-select:none;
-
 }
 
 /* --------Hero Section------- */
